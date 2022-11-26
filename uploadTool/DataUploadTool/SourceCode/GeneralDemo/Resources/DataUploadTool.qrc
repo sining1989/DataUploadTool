@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/DataUploadTool.qss</file>
+        <file>image/close.png</file>
+        <file>image/close_hover.png</file>
+        <file>image/close_pressed.png</file>
+        <file>image/pdf.png</file>
+        <file>image/picture.png</file>
+        <file>image/video.png</file>
+        <file>image/icon.png</file>
+        <file>image/arrow_down.png</file>
+        <file>image/menu.png</file>
+        <file>image/menu_hover.png</file>
+        <file>image/menu_pressed.png</file>
+        <file>image/app_icon.bmp</file>
+        <file>image/app_icon.ico</file>
+        <file>image/failed.png</file>
+        <file>image/ok.png</file>
+        <file>image/cloud.png</file>
+        <file>qss/DataUploadTool.qss</file>
+    </qresource>
+</RCC>
