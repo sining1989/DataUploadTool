@@ -3,4 +3,4 @@ DataUploadTool是一款在Windows平台基于VS2017、Qt5.9.5源码编译开发�
 效果如下：
 https://uploadbeta.com/share-image/jgv
 
-再分享一个很好用的制作中文安装包的软件：InnoSetup
+再分享一个很好用的制作中文安装包的软件：InnoSetup.exe
